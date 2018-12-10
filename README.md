@@ -1,2 +1,21 @@
 # chess
 Chess em C#
+- inicio
+  - [x] cadastrar jogadores
+  - [x] criar e exibir tabuleiro
+  - [ ] definir lance maximo em caso de empates
+- regras de movimentos
+  - [x]  peao
+  - [x]  torre
+  - [x]  cavalo
+  - [x]  bispo
+  - [x]  rainha
+  - [x]  rei
+- casos especiais
+  - [ ] el passant
+  - [ ] roque
+  - [ ] conquista peao
+- validação do game
+  - [ ] check
+  - [ ] checkmate
+  - [ ] empate
